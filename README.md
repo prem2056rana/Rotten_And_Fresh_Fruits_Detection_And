@@ -70,13 +70,14 @@ This project is designed to detect and separate fresh and rotten fruits, specifi
     python3 detect_and_separate.py
     ```
 
-2. **Place a Fruit in Front of the Camera**:
+2. **Place a Fruit in Front of the Camera/Conveyor belt**:
     - The system will classify the fruit as Fresh Apple, Rotten Apple, Fresh Tomato, or Rotten Tomato.
+    - Conveyor Belt move continuously.
     - The servo motor will move the fruit into the appropriate box based on its classification.
 
 ### Script Details
 
-- **detect_and_separate.py**: Main script to capture images from the camera, run the YOLOv7-tiny model for detection, classify the fruit, and control the servo motor to separate the fruits.
+- **detect_and_separate.py**: Main script to capture images from the camera, run the YOLOv7-tiny model for detection, classify the fruit, and control the servo motor to separate the fruits accordingly.
 
 ### Documentation
 
@@ -89,13 +90,13 @@ This project is designed to detect and separate fresh and rotten fruits, specifi
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Paper
+ For detailed information about the project, you can read this paper:
+[https://www.researchgate.net/publication/379986263_Recognition_and_separation_of_fresh_and_rotten_fruits_using_YOLO_algorithm]
 
 ### Authors
 
-- **Your Name** - *Initial work* - [YourGitHubUsername](https://github.com/your_username)
+- **Prem Bahadur Rana** -([https://github.com/your_username](https://github.com/prem2056rana/Rotten_And_Fresh_Fruits_Detection_And_Separation)
 
 ### Acknowledgments
 
