@@ -96,7 +96,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ### Authors
 
-- **Prem Bahadur Rana** -([https://github.com/your_username](https://github.com/prem2056rana/Rotten_And_Fresh_Fruits_Detection_And_Separation)
+- **Prem Bahadur Rana** -[https://github.com/prem2056rana/Rotten_And_Fresh_Fruits_Detection_And_Separation]
 
 ### Acknowledgments
 
